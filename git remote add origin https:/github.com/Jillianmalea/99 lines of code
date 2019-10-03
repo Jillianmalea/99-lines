@@ -1,0 +1,29 @@
+public class lineSong{
+    public static void main(String [args]){
+        int linesNum= 99;
+        String word = "lines";
+
+        while (linesNum > 0){
+            if (beerNum == 1){
+                word = "lines";
+                System.out.println(linesNum + " " + word + " of code in the file.");
+                System.out.println(linesNum + " " + word + " of code.");
+                system.out.println("John strikes one out.\nClears it all out.");
+                linesNum = linesNum -1;
+                if (linesNum > 0)
+                {
+                    System.out.println(linesNum + " " + word + " of code in the file.");
+                    {
+                        else
+                    }
+System.out.println("No more lines of code in the file");
+                }            }
+        }
+
+        
+
+
+    
+    }
+}
+
